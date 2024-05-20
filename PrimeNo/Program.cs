@@ -12,6 +12,8 @@ namespace PrimeNo
         {
 
             // Base cases 
+
+            // Add changes
             if (n <= 2)
             {
                 return (n == 2) ? true : false;
